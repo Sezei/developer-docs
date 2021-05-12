@@ -11,10 +11,6 @@
 * [Plugins](ranking/plugins.md)
 * [Roblox Module](ranking/roblox-module.md)
 
-## Activity
-
-* [All endpoints](activity/all-endpoints.md)
-
 ## Miscellaneous
 
 * [APIs](miscellaneous/apis.md)
