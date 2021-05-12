@@ -1,7 +1,7 @@
 # APIs
 
 {% hint style="danger" %}
-These APIs are for internal use and not intended for public consumption. These APIs may be depreciated at any time and are not covered under SLA.
+These APIs are for internal use and not intended for public consumption. These APIs may be deprecated at any time and are not covered under SLA.
 {% endhint %}
 
 {% api-method method="get" host="https://m1.hyra.cloud" path="/friends/{playerId}" %}

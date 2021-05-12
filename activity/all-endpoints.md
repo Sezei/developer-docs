@@ -4,8 +4,8 @@ description: All available endpoints on Hyra Activity
 
 # All endpoints
 
-{% hint style="warning" %}
-This API is designed for internal use
+{% hint style="danger" %}
+These APIs are for internal use and not intended for public consumption. These APIs may be deprecated at any time and are not covered under SLA.
 {% endhint %}
 
 {% api-method method="get" host="https://m1.hyra.cloud" path="/activity-info" %}
