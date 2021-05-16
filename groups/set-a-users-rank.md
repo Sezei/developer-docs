@@ -4,6 +4,10 @@ description: Change a users rank in a group directly to a specified rank
 
 # Set a users rank
 
+{% hint style="danger" %}
+This route is not currently active
+{% endhint %}
+
 {% api-method method="patch" host="https://api.hyra.io/v2" path="/group/rank" %}
 {% api-method-summary %}
 Change a users rank
@@ -15,11 +19,11 @@ This API endpoint will allow you to change a users rank programmatically in a Ro
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
+{% api-method-headers %}
 {% api-method-parameter name="Authorization" type="string" required=true %}
 Your API Key
 {% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+{% endapi-method-headers %}
 
 {% api-method-query-parameters %}
 {% api-method-parameter name="userId" type="number" required=true %}

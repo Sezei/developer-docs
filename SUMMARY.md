@@ -30,6 +30,7 @@
 ## Groups
 
 * [Set a users rank](groups/set-a-users-rank.md)
+* [Promote a user](groups/promote-a-user.md)
 
 ## Booster
 
