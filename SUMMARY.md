@@ -27,9 +27,9 @@
 * [Add Activity](activity/add-activity.md)
 * [Remove Activity](activity/remove-activity.md)
 
-## Ranking
+## Groups
 
-* [Set a users rank](ranking/set-a-users-rank.md)
+* [Set a users rank](groups/set-a-users-rank.md)
 
 ## Booster
 
