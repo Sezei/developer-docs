@@ -2,7 +2,7 @@
 description: Change a users rank in a group directly to a specified rank
 ---
 
-# Set a users rank
+# Promote a user
 
 {% api-method method="patch" host="https://api.hyra.io/v2" path="/group/rank" %}
 {% api-method-summary %}
