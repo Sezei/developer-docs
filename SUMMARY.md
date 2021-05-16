@@ -1,17 +1,42 @@
 # Table of contents
 
-* [Welcome to Hyra Developer! 💡](README.md)
+* [Welcome \(V1.0\)](README.md)
+* [V1.0 Changelog](v1.0-changelog.md)
+
+## Common
+
+* [Encoding](common/encoding.md)
+* [HTTPS only](common/https-only.md)
+* [Request Methods](common/request-methods.md)
+* [Pagination & Sorting](common/pagination-and-sorting.md)
+* [Error Handling](common/error-handling/README.md)
+  * [Error Codes](common/error-handling/error-codes.md)
+* [Authentication](common/authentication/README.md)
+  * [Infastructure](common/authentication/infastructure.md)
+
+## Quota
+
+* [Quota & Usage](quota/quota.md)
+* [Usage by request type](quota/usage-by-request-type.md)
+* [Purchasing credits](quota/purchasing-credits.md)
+* [How Credit Rollover Works](quota/how-credit-rollover-works.md)
+
+## Activity
+
+* [Get Activity](activity/get-activity.md)
+* [Add Activity](activity/add-activity.md)
+* [Remove Activity](activity/remove-activity.md)
 
 ## Ranking
 
-* [Introduction](ranking/introduction.md)
-* [Ranking a user](ranking/ranking-a-user.md)
-* [Messaging a user](ranking/messaging-a-user.md)
-* [All endpoints](ranking/all-endpoints.md)
-* [Plugins](ranking/plugins.md)
-* [Roblox Module](ranking/roblox-module.md)
+* [Set a users rank](ranking/set-a-users-rank.md)
 
-## Miscellaneous
+## Booster
 
-* [APIs](miscellaneous/apis.md)
+* [Introduction](booster/introduction.md)
+
+## Miscellaneous <a id="misc"></a>
+
+* [Credibility](misc/credibility.md)
+* [Geo](misc/geo.md)
 
