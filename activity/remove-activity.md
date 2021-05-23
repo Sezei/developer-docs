@@ -8,7 +8,7 @@ description: Hyra's API allows you to remove activity from users.
 
 This API can can remove minutes, which could be used to remove activity from users who are AFK in game.
 
-{% api-method method="delete" host="https://api.hyra.io" path="/activity" %}
+{% api-method method="delete" host="https://api.hyra.io" path="/v2/activity" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}

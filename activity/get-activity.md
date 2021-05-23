@@ -8,7 +8,7 @@ description: Hyra's API allows you to fetch activity for a specific user.
 
 This API could be used for various use cases, such as showing user activity in-game or on a Discord bot.
 
-{% api-method method="get" host="https://api.hyra.io" path="/activity" %}
+{% api-method method="get" host="https://api.hyra.io" path="/v2/activity" %}
 {% api-method-summary %}
 Get User Activity
 {% endapi-method-summary %}

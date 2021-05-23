@@ -8,7 +8,7 @@ description: Hyra's API allows you to add activity to users.
 
 This API could be used to add more minutes onto a user, for example for a booster period in game.
 
-{% api-method method="post" host="https://api.hyra.io" path="/activity" %}
+{% api-method method="post" host="https://api.hyra.io" path="/v2/activity" %}
 {% api-method-summary %}
 Add activity to a user
 {% endapi-method-summary %}
