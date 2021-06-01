@@ -32,9 +32,9 @@
 * [Set a users rank](groups/set-a-users-rank.md)
 * [Promote a user](groups/promote-a-user.md)
 
-## Booster
+## Order & Point Management
 
-* [Introduction](booster/introduction.md)
+* [Introduction](order-and-point-management/introduction.md)
 
 ## Miscellaneous <a id="misc"></a>
 
