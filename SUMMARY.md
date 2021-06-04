@@ -39,6 +39,7 @@
   * [Setting a property](order-and-player-management/setting-and-updating-player-data/setting-a-property.md)
   * [Pushing to an array](order-and-player-management/setting-and-updating-player-data/pushing-to-an-array.md)
   * [Incrementing a property](order-and-player-management/setting-and-updating-player-data/incrementing-a-property.md)
+  * [Tables](order-and-player-management/setting-and-updating-player-data/tables.md)
 
 ## Miscellaneous <a id="misc"></a>
 
