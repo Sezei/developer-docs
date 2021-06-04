@@ -32,9 +32,14 @@
 * [Set a users rank](groups/set-a-users-rank.md)
 * [Promote a user](groups/promote-a-user.md)
 
-## Order & Point Management
+## Order & Player Management
 
-* [Introduction](order-and-point-management/introduction.md)
+* [Introduction](order-and-player-management/introduction.md)
+* [Player Management](order-and-player-management/player-management/README.md)
+  * [Setting and updating player data](order-and-player-management/player-management/setting-and-updating-player-data/README.md)
+    * [Setting a property](order-and-player-management/player-management/setting-and-updating-player-data/setting-a-property.md)
+    * [Pushing to an array](order-and-player-management/player-management/setting-and-updating-player-data/pushing-to-an-array.md)
+    * [Incrementing a property](order-and-player-management/player-management/setting-and-updating-player-data/incrementing-a-property.md)
 
 ## Miscellaneous <a id="misc"></a>
 
