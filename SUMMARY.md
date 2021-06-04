@@ -35,11 +35,10 @@
 ## Order & Player Management
 
 * [Introduction](order-and-player-management/introduction.md)
-* [Player Management](order-and-player-management/player-management/README.md)
-  * [Setting and updating player data](order-and-player-management/player-management/setting-and-updating-player-data/README.md)
-    * [Setting a property](order-and-player-management/player-management/setting-and-updating-player-data/setting-a-property.md)
-    * [Pushing to an array](order-and-player-management/player-management/setting-and-updating-player-data/pushing-to-an-array.md)
-    * [Incrementing a property](order-and-player-management/player-management/setting-and-updating-player-data/incrementing-a-property.md)
+* [Setting and updating player data](order-and-player-management/setting-and-updating-player-data/README.md)
+  * [Setting a property](order-and-player-management/setting-and-updating-player-data/setting-a-property.md)
+  * [Pushing to an array](order-and-player-management/setting-and-updating-player-data/pushing-to-an-array.md)
+  * [Incrementing a property](order-and-player-management/setting-and-updating-player-data/incrementing-a-property.md)
 
 ## Miscellaneous <a id="misc"></a>
 
