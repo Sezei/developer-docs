@@ -197,7 +197,7 @@ text/json
 {% endapi-method-headers %}
 
 {% api-method-body-parameters %}
-{% api-method-parameter name="token" type="integer" required=true %}
+{% api-method-parameter name="token" type="string" required=true %}
 The Hyra Ranking token
 {% endapi-method-parameter %}
 
