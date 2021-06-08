@@ -148,15 +148,15 @@ text/json
 The Hyra Ranking token
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="rankNumber" type="string" required=true %}
+{% api-method-parameter name="rankNumber" type="integer" required=true %}
 The rank in the group which user should be ranked to \(1-253 supported\)
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="targetId" type="string" required=true %}
+{% api-method-parameter name="targetId" type="integer" required=true %}
 The Roblox Player ID of the user you are ranking
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="groupId" type="string" required=true %}
+{% api-method-parameter name="groupId" type="integer" required=true %}
 The group ID of where you are promoting the user
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
@@ -209,7 +209,7 @@ The subject of the message
 The contents of the message
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="targetId" type="string" required=true %}
+{% api-method-parameter name="targetId" type="integer" required=true %}
 The Roblox Player Id of the user you are messaging
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
